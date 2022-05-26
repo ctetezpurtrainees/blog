@@ -33,7 +33,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "This is an 'unofficial blog' of [the trainees of CTE, Tezpur](https://ctetezpurtrainees.github.io/)" # The post list page content
+    description: "This is an 'unofficial blog' of [the B.Ed. trainees of CTE, Tezpur](https://ctetezpurtrainees.github.io/)" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
